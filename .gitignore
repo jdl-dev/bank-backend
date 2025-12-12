@@ -1,0 +1,29 @@
+# Maven / Java
+target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env/secrets
+.env
+*.key
+*.pem
+
+# Spring (jeśli kiedyś użyjesz)
+application-local.yml
+application-dev.yml
